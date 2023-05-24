@@ -1,5 +1,5 @@
 {
-  "name": "meu-repo",
+  "name": "Meu-Repo",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://isaias79.github.io/meu-repo'",
+    "build-gh": "parcel build --public-url 'https://isaias79.github.io/Meu-Repo'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
